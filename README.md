@@ -1,8 +1,9 @@
-![MasterHead](https://tryhackme.com/badge/1307031)
+![MasterHead](https://i.pinimg.com/originals/10/2c/60/102c60536df3b750d123de5506312910.gif)
 <h1 align="center">Hi 👋, I'm Ridowan</h1>
 <h3 align="center">A cyber security enthusiast from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtzvPppWk0Mb_QgyFwwv4Ae3diD27M6P80MA&usqp=CAU">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whispernet&label=Profile%20views&color=0e75b6&style=flat" alt="whispernet" /> </p>
+<img align="right" alt="Coding" width="400" src="https://tryhackme-badges.s3.amazonaws.com/footstepwornout.png">
 
 - 🔭 I’m currently working on **web and network security**
 
