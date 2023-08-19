@@ -5,13 +5,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whispernet&label=Profile%20views&color=0e75b6&style=flat" alt="whispernet" /> </p>
 <img align="right" alt="Coding" width="400" src="https://tryhackme-badges.s3.amazonaws.com/footstepwornout.png">
 
-- 🔭 I’m currently working on **web and network security**
+- 🔭 I’m currently working on **Web and Network Security**
 
 - 🌱 I’m currently learning **Web Technology**
 
 - 🏁 I'm regularly solving CTF rooms at [TryHackMe](https://tryhackme.com/p/footstepwornout)
 
-- 🤝 I’m looking for help with [Bug Hunting focusing on web Security](https://hackerone.com/nikenwtrojan?type=user)
+- 🤝 I’m looking for help with [Bug Hunting focusing on Web Security](https://hackerone.com/nikenwtrojan?type=user)
 
 - 📝 I regularly write articles on [https://whispernet.letterpad.app/](https://whispernet.letterpad.app/)
 
